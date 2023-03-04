@@ -16,7 +16,7 @@ productos.forEach((productos)=> {
     <h3> ${productos.nombre}</h3>
     <h6> ${productos.desc}</h6>
   
-    <p class ="price">${productos.precio}$ </p>
+    <p class ="price">$${productos.precio} </p>
     `;
     container.append(content)
 
