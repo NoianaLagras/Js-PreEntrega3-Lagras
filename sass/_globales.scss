@@ -82,10 +82,10 @@ img{
 .modal-header{
     display: flex;
     flex-direction: row;
-
+    font-family:Georgia, 'Times New Roman', Times, serif;
     justify-content: space-between;
     background-color: #379b96;
-    color: aliceblue;
+    color: rgb(210, 223, 235);
     width: 100%;
     .title{
         justify-self: start
@@ -106,7 +106,7 @@ img{
     border-radius: 5px;
     text-align: center;
     margin: 10px;
-    background-color: rgb(252, 1, 85);
+    background-color: rgba(255, 0, 85, 0.658);
     color: rgb(255, 255, 255);
 }
 
